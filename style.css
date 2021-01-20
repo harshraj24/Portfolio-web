@@ -187,6 +187,7 @@ h2.title::before{
 }
 .about .about-content .img img{
 	width: 100%;
+	border-radius:25px;
 	border:10px solid #3c3c3c;
 }
 .about .about-content .description{
